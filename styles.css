@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+div{
+	width:200px;
+	height:200px;
+	border: 2px black;
+	margin:20px;
+	background-color:lightblue;
+	margin:50px;
+	padding:50px:
+}
+p{
+	color:purple;
+	text-align:center;
+	line-height:12;
+}
